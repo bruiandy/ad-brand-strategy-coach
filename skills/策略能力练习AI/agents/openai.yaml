@@ -1,0 +1,4 @@
+interface:
+  display_name: "策略能力练习AI"
+  short_description: "品牌与广告传播策略陪练，理解完整逻辑、识别判断缺口并逐步讨论依据与取舍"
+  default_prompt: "使用 $ad-brand-strategy-coach 陪我练习品牌与广告传播策略，先解释完整逻辑与九个判断节点，再结合我的信息推进。"
